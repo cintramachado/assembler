@@ -1,4 +1,4 @@
-# bin file assmebly converter
+# bin file assembly converter
 # @author Pedro Cintra Machado
 # @version 1.0
 
